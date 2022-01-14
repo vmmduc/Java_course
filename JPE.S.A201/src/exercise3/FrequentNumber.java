@@ -6,7 +6,7 @@ public class FrequentNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int i = 0,len = 5;
+		int i = 0, len = 5;
 		int[] a = new int[len];
 		Scanner s = new Scanner(System.in);
 		Scanner scan = new Scanner(System.in);
